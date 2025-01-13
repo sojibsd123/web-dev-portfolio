@@ -161,3 +161,23 @@ main{
 .resume-downlod-btn{
   margin-top: 40px;
 }
+
+/* end section */
+.footer{
+  background-color: #FFF8F3;
+  padding: 70px 120px;
+  display: flex;
+}
+.footer-coloumn{
+  width: 50%;
+}
+
+footer input[type="text"], footer input[type="email"], footer textarea {
+  width: 80%;
+  background-color: #fff;
+  padding: 18px 30px;
+  border: none;
+  display: block;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
