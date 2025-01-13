@@ -132,3 +132,32 @@ main{
   box-shadow: 0px 6px 50px 0px rgba(102, 37, 37, 0.06);
   
 }
+
+/* secsion end */
+.resume{
+  padding-bottom: 90px;
+}
+.resume-container{
+  display: flex;
+  gap: 24px;
+}
+.resume-colum-title{
+  font-weight: bold;
+  font-size: 30px;
+}
+.experience{
+  column-gap: 0px;
+}
+.experience-desc{
+  color: #757575;
+  font-size: 17px;
+  
+}
+.experience-sub-title{
+  font-size: 18px;
+  color: #757575;
+  
+}
+.resume-downlod-btn{
+  margin-top: 40px;
+}
