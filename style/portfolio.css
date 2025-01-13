@@ -33,6 +33,9 @@
   font-weight: 400;
   color: #757575;
 }
+.text-center{
+  text-align: center;
+}
 /* header */
 .header{
   background-color: #FFF8F3;
@@ -111,4 +114,21 @@ main{
 }
 .item-desc{
   font-weight: 600;
+}
+
+/* skill section */
+
+.skills-container{
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+  
+}
+.skills{
+  padding: 70px 0;
+}
+.skill{
+  padding: 20px;
+  box-shadow: 0px 6px 50px 0px rgba(102, 37, 37, 0.06);
+  
 }
